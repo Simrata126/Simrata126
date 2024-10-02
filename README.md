@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am Simrata👋
+
+
+  <h3>Connect with me</h3>
+  <a href="linkedin.com/in/simrata-singh-868b90200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <br>
+  
 
 <!--
 **Simrata126/Simrata126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
