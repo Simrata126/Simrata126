@@ -12,7 +12,7 @@
 🔭 I’m trying to develop innovative solutions using GenAI while focusing on securing GenAI systems. As GenAI becomes integral across industries, it poses significant risks to critical assets due to insufficient security practices. My goal is to ensure that as this technology evolves, its security keeps pace, protecting sensitive data and maintaining trust in AI-driven systems.
 
 ## Background
-I’m a passionate **Cybersecurity Engineer** with expertise in **Application Security** and **AI Security**. My experience includes working as a **Security Engineer Intern** at [Flipkart](), where I performed **Vulnerability Assessments**, led **WAF deployments**, and developed secure solutions for **GenAI** systems. 
+I’m a passionate **Cybersecurity Engineer** with expertise in **Application Security** and **AI Security**. My experience includes working as a **Security Engineer Intern** at <img src="5021b87fb97e90b8f153a4480ffc615e.gif" alt="GIF" width="50" height="50" /> , where I performed **Vulnerability Assessments**, led **WAF deployments**, and developed secure solutions for **GenAI** systems. 
 
 I’ve worked on impactful projects like a **GenAI-Powered PII Extractor** and a **Fraud Detection System** using anomaly detection techniques. My core skills include **Python**, **Flask**, **Penetration Testing**, and **Threat Modeling**.
 
