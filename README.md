@@ -1,4 +1,9 @@
-## Hi there, I am Simrata👋  <a href="linkedin.com/in/simrata-singh-868b90200/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+## Hi there, I am Simrata👋  
+## Hi there, I am Simrata👋  
+<a href="https://linkedin.com/in/simrata-singh-868b90200/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
+
 
 <div>
   <br>
