@@ -1,5 +1,4 @@
-## Hi there, I am Simrata👋  
-## Hi there, I am Simrata👋  
+ ## Hi there, I am Simrata👋  
 <a href="https://linkedin.com/in/simrata-singh-868b90200/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
 </a>
@@ -71,9 +70,9 @@ Beyond security, I’m intrigued by **Blockchain Security**, **AI Risk Mitigatio
 
 <div align="center">
   <h3>Connect with me</h3>
-  <a href="linkedin.com/in/simrata-singh-868b90200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  <a href="https://linkedin.com/in/simrata-singh-868b90200/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
 </div>
 
 
