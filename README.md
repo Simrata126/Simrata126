@@ -1,6 +1,6 @@
  ## Hi there, I am Simrata👋  
-<a href="https://linkedin.com/in/simrata-singh-868b90200/" target="_blank" align="center"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" align="center">
+<a align="center" href="https://linkedin.com/in/simrata-singh-868b90200/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
 </a>
 
 
