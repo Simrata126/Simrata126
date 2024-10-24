@@ -53,6 +53,7 @@ Here's just a sneak peek at my tech stack, but don't let that fool you—my skil
   <!-- Metasploit -->
   <img src="https://img.shields.io/badge/Metasploit-3984F7?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SimrataS.png" alt="Your Image Badge" />
 
 
 ### Interests
@@ -66,8 +67,6 @@ Beyond security, I’m intrigued by **Blockchain Security**, **AI Risk Mitigatio
 - TryHackMe: Red Teaming & Web Exploitation 
 
 ---
-
-
 🚀 Let’s collaborate on **open-source security tools** or discuss **cutting-edge security trends**
 
 <div align="center">
