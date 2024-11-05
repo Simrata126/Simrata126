@@ -56,7 +56,7 @@ Here's just a sneak peek at my tech stack, but don't let that fool you—my skil
 
 ### My Tryhackme and HTB Profile
  <div align="center">
- <img src="SimrataS.png" alt="png" width="290" height="80" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/SimrataS.png" alt="Your Image Badge" />
 </div>
 
 ### Interests
