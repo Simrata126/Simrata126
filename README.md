@@ -38,7 +38,7 @@ I'm a passionate **Cybersecurity Engineer** with a focus on **Application Securi
 🔗 connect()  
 ```
 🔗 [LinkedIn](https://linkedin.com/in/simrata-singh-868b90200/) | 🌍 [Portfolio](https://portfolio-amber-six-22.vercel.app/#work) | 
-📚 [Medium](https://medium.com/@simratacyber)  | 🕵️‍♀️ [TryHackMe](https://tryhackme.com/p/SimrataS)  
+📚 [Medium](https://medium.com/@simrata.126)  | 🕵️‍♀️ [TryHackMe](https://tryhackme.com/p/SimrataS)  
 
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SimrataS.png" alt="TryHackMe Badge" width="200"/>
 
